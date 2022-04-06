@@ -1,0 +1,2 @@
+# funksjoner
+dette er funksjoner 
